@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 38db15f1f34f675068d888af24c374a8
+guid: 109473578a4a75ff7b4c2a820854bd75
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GhostScaredTexture_0
+      name: GhostNormalTexture_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 210414535c9510a83b9f368e0b242f6f
-      internalID: 1552259488
+      spriteID: a7b40f8c8e9de04158883660bf7d4c57
+      internalID: -20164912
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_1
+      name: GhostNormalTexture_1
       rect:
         serializedVersion: 2
         x: 16
@@ -132,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cadcc89c92a63c9438aac9eb2a89f1ad
-      internalID: -1339283256
+      spriteID: 2a9e52f3736b68d52a839b741e441941
+      internalID: -1929786002
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_2
+      name: GhostNormalTexture_2
       rect:
         serializedVersion: 2
         x: 32
@@ -153,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0efc15571417197228b060c78a65afa5
-      internalID: 1265196747
+      spriteID: 827d9e40c8ee6bc6095b642e5335e6c7
+      internalID: -1672662303
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_3
+      name: GhostNormalTexture_3
       rect:
         serializedVersion: 2
         x: 48
@@ -174,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8dcbf21a5cac89d0fae8a8140efdd49c
-      internalID: 1504423006
+      spriteID: 70b94763bc1dd6de381125a370a1ba43
+      internalID: -988940368
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_4
+      name: GhostNormalTexture_4
       rect:
         serializedVersion: 2
         x: 64
@@ -195,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d63785511ed5d5ed3b941bbcafd34ac6
-      internalID: 758394437
+      spriteID: 6331596a6ad65f5229eb18f8746f693e
+      internalID: 632028133
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_5
+      name: GhostNormalTexture_5
       rect:
         serializedVersion: 2
         x: 80
@@ -216,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 818e1babaf8173e8e942a8fc8bb9c828
-      internalID: -1695394356
+      spriteID: 0a5449de9ed928365aac571e28c3505b
+      internalID: -279111342
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_6
+      name: GhostNormalTexture_6
       rect:
         serializedVersion: 2
         x: 96
@@ -237,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d25847b20c7e8189b018bf1da91f09f
-      internalID: 1557641431
+      spriteID: 7c6d3faf5a179ed8f96a282c1237ffe5
+      internalID: -879060796
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_7
+      name: GhostNormalTexture_7
       rect:
         serializedVersion: 2
         x: 112
@@ -258,14 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc2442c052148bef39bba51246c0910a
-      internalID: -1696612163
+      spriteID: 7d3deda3079ec7cfebc1f1b27440cde8
+      internalID: -845158358
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_8
+      name: GhostNormalTexture_8
       rect:
         serializedVersion: 2
         x: 0
@@ -279,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 290150e8e19d882bfba6af6486438ee2
-      internalID: 1487962487
+      spriteID: 02e305243786c795e83735a8ff0a3c4e
+      internalID: -2065878246
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_9
+      name: GhostNormalTexture_9
       rect:
         serializedVersion: 2
         x: 16
@@ -300,14 +300,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7a03fc889884b7c7ba87349ef5a57668
-      internalID: -14814670
+      spriteID: 97321a72e08e42d97a538fc8f58b5c57
+      internalID: -1856659273
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_10
+      name: GhostNormalTexture_10
       rect:
         serializedVersion: 2
         x: 32
@@ -321,14 +321,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c380cd77e493541dda3873326b09e3f9
-      internalID: 297823421
+      spriteID: 577e15b59801f81e292519caf500ec4f
+      internalID: 598153693
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_11
+      name: GhostNormalTexture_11
       rect:
         serializedVersion: 2
         x: 48
@@ -342,14 +342,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 586f43804813340fa8ae2ff622c72240
-      internalID: -401142483
+      spriteID: cfb3070232c62e9bf8eb3cf90599b8b1
+      internalID: -1598164884
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_12
+      name: GhostNormalTexture_12
       rect:
         serializedVersion: 2
         x: 64
@@ -363,14 +363,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df22d0ba909eb224cbbf37abcb347ada
-      internalID: -1725671168
+      spriteID: 60ee58ab10e0ca01d99fd1297d3bb15d
+      internalID: -8702127
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_13
+      name: GhostNormalTexture_13
       rect:
         serializedVersion: 2
         x: 80
@@ -384,14 +384,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f368f7f687941027f92fa875171e7a0c
-      internalID: -1050562719
+      spriteID: ca28b7044a057d032b4997d410314f54
+      internalID: -1301881853
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_14
+      name: GhostNormalTexture_14
       rect:
         serializedVersion: 2
         x: 96
@@ -405,14 +405,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 429ca735ab0084b2681165b2431d504d
-      internalID: -2013187356
+      spriteID: 1f79609d50eaed3588a7582d2471c073
+      internalID: -1094237998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_15
+      name: GhostNormalTexture_15
       rect:
         serializedVersion: 2
         x: 112
@@ -426,14 +426,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97113b15526859a309c72d1af6594ab5
-      internalID: -336618049
+      spriteID: d47b85ad584805c7db4ecf587c54d12d
+      internalID: 1286058506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_16
+      name: GhostNormalTexture_16
       rect:
         serializedVersion: 2
         x: 0
@@ -447,14 +447,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bbf75529a7767640a99a766345d47194
-      internalID: -459726133
+      spriteID: 61260edc383ac653f9473d75f5038df6
+      internalID: -935411983
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_17
+      name: GhostNormalTexture_17
       rect:
         serializedVersion: 2
         x: 16
@@ -468,14 +468,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6b468077bea5ef48a1f1c449096f47b
-      internalID: 1700013356
+      spriteID: 06f16e1a460c6c1ff81297d37f4bd839
+      internalID: -1054638712
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_18
+      name: GhostNormalTexture_18
       rect:
         serializedVersion: 2
         x: 32
@@ -489,14 +489,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 199b0d5fa81222797bac12cdb57fae01
-      internalID: 630188535
+      spriteID: 9f4a1020d318305cb87b08130c7945fc
+      internalID: -1424849065
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_19
+      name: GhostNormalTexture_19
       rect:
         serializedVersion: 2
         x: 48
@@ -510,14 +510,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e8d6806d0b8e26ed839a8438aaed937
-      internalID: 528694378
+      spriteID: fb4cd70c4efbea915bb62ad26d313264
+      internalID: 114645136
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_20
+      name: GhostNormalTexture_20
       rect:
         serializedVersion: 2
         x: 64
@@ -531,14 +531,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5dd4a852a8cde67b1912e17d0395a4b4
-      internalID: -56600186
+      spriteID: 19f755860ecb8640b948daa3bbd9e446
+      internalID: 770988449
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_21
+      name: GhostNormalTexture_21
       rect:
         serializedVersion: 2
         x: 80
@@ -552,14 +552,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96159dc34f0529dfeb6f4abd3a7be32c
-      internalID: -1694714796
+      spriteID: 45fc427ace8eae6e6b12530be01d680a
+      internalID: -1396028120
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_22
+      name: GhostNormalTexture_22
       rect:
         serializedVersion: 2
         x: 96
@@ -573,14 +573,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 494ea94330700eb578f1907aaa72db09
-      internalID: -1477346682
+      spriteID: 524f9512a65d540958c66698682deff1
+      internalID: 1691940228
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_23
+      name: GhostNormalTexture_23
       rect:
         serializedVersion: 2
         x: 112
@@ -594,14 +594,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6fc0e37d06036821a7df77c358368eb
-      internalID: -95559102
+      spriteID: 085f8e1f25088bf44abc405f02d578c1
+      internalID: 1291610518
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_24
+      name: GhostNormalTexture_24
       rect:
         serializedVersion: 2
         x: 0
@@ -615,14 +615,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 943186bc7473b0bf89336f2c53fcd3d4
-      internalID: -278749153
+      spriteID: 5cfe57aa9c054412ea4ecc2fac9c484d
+      internalID: -2082116220
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_25
+      name: GhostNormalTexture_25
       rect:
         serializedVersion: 2
         x: 16
@@ -636,14 +636,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08f6446c009c75461ac5e471a5d79a4b
-      internalID: 613963895
+      spriteID: 85f1a81d8bfdb42db8ab5374e31ed05b
+      internalID: -2061300111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_26
+      name: GhostNormalTexture_26
       rect:
         serializedVersion: 2
         x: 32
@@ -657,14 +657,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02c347157c0e1bb848c0d7eec3ff1c11
-      internalID: 1224039055
+      spriteID: 8185cf43027f6c8b193edc2572cf3188
+      internalID: -1626282446
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_27
+      name: GhostNormalTexture_27
       rect:
         serializedVersion: 2
         x: 48
@@ -678,14 +678,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81454a1e3372715e9ba0c03ebf13a2df
-      internalID: -1367510331
+      spriteID: 5a949fe5daac901d6bc63ece9c7460bf
+      internalID: -425023317
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_28
+      name: GhostNormalTexture_28
       rect:
         serializedVersion: 2
         x: 64
@@ -699,14 +699,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2debdee33882f926bafb541e19fec4d4
-      internalID: 1210567351
+      spriteID: d6d862f668e75e0f0ba349704cd056ec
+      internalID: -677186413
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_29
+      name: GhostNormalTexture_29
       rect:
         serializedVersion: 2
         x: 80
@@ -720,14 +720,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c3d40e17bb344583947039438a2a236
-      internalID: 1693146471
+      spriteID: 08cb37596e1f9be4bb10c58e99a31be0
+      internalID: 2107359624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_30
+      name: GhostNormalTexture_30
       rect:
         serializedVersion: 2
         x: 96
@@ -741,14 +741,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1df488b549e55bffd9f3de531d571a70
-      internalID: 1959272473
+      spriteID: 3701e260197e997808976cf835ff4280
+      internalID: -1696408987
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_31
+      name: GhostNormalTexture_31
       rect:
         serializedVersion: 2
         x: 112
@@ -762,14 +762,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3344e4e1098fa5b41b535171f35c61b1
-      internalID: -1760506147
+      spriteID: cabdffe7d8e121636b966aa8691c755a
+      internalID: 1237559001
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_32
+      name: GhostNormalTexture_32
       rect:
         serializedVersion: 2
         x: 0
@@ -783,14 +783,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b5751778bd971be6978315563f8188f
-      internalID: -333623334
+      spriteID: b2c45f52e68d5b387b8f5ea3c85d5a12
+      internalID: 990774590
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_33
+      name: GhostNormalTexture_33
       rect:
         serializedVersion: 2
         x: 16
@@ -804,14 +804,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17dc5e4280e684370887eaabc98a2ae4
-      internalID: 141636321
+      spriteID: 7815ebea69a95e38d9ee4d69e7042d99
+      internalID: -969574758
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_34
+      name: GhostNormalTexture_34
       rect:
         serializedVersion: 2
         x: 32
@@ -825,14 +825,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7a66244ed47e2473aa6f8db683d236e
-      internalID: 1478527539
+      spriteID: aa80cb5c1ab022a6eb0a3bb56cac9605
+      internalID: -136596477
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_35
+      name: GhostNormalTexture_35
       rect:
         serializedVersion: 2
         x: 48
@@ -846,14 +846,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b030319ace2fb69c8691a05df1df702
-      internalID: -2037641675
+      spriteID: 93165b57d2310bf05b2f6c9c1fe27e7d
+      internalID: -1646104312
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_36
+      name: GhostNormalTexture_36
       rect:
         serializedVersion: 2
         x: 64
@@ -867,14 +867,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c0ead03b615c7f5eb9b5330c507b1dd
-      internalID: -455608683
+      spriteID: d9125890bf2732680996c8876d052f69
+      internalID: -226905772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_37
+      name: GhostNormalTexture_37
       rect:
         serializedVersion: 2
         x: 80
@@ -888,14 +888,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf7702a3dde8a67878d2e392c6121af2
-      internalID: 676043829
+      spriteID: c520b56b6ca027b219629a032f4b9d43
+      internalID: -1318738907
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_38
+      name: GhostNormalTexture_38
       rect:
         serializedVersion: 2
         x: 96
@@ -909,14 +909,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc4170617bc68c5cc93324d191bdecb3
-      internalID: -1950806834
+      spriteID: 7d91efa547c0161e7a1278891e860016
+      internalID: -1530320187
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_39
+      name: GhostNormalTexture_39
       rect:
         serializedVersion: 2
         x: 112
@@ -930,14 +930,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d9014513127a6391bd68bf9ccb73e2d
-      internalID: 1761474442
+      spriteID: 7b5fa9bcc1241722ca1de538686eb71e
+      internalID: -38635491
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_40
+      name: GhostNormalTexture_40
       rect:
         serializedVersion: 2
         x: 0
@@ -951,14 +951,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 187a1ffc68eabcf0bab96435417b2ba9
-      internalID: -1407827520
+      spriteID: 350805df74c599559a239302e7fa84e1
+      internalID: -1291356101
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_41
+      name: GhostNormalTexture_41
       rect:
         serializedVersion: 2
         x: 16
@@ -972,14 +972,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c66cd38d37cf0da8185bc2de7e5b922e
-      internalID: -1905662915
+      spriteID: cf6e3676335f788f0b836c119665eaa4
+      internalID: -1364535282
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_42
+      name: GhostNormalTexture_42
       rect:
         serializedVersion: 2
         x: 32
@@ -993,14 +993,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8610114ddfc4f29d4ac61215a6d680ef
-      internalID: 1677978619
+      spriteID: 6cd028238c84b65fdabee45d372fb6de
+      internalID: 914610868
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_43
+      name: GhostNormalTexture_43
       rect:
         serializedVersion: 2
         x: 48
@@ -1014,14 +1014,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2892e42a291d5a10e8ddfbb5ee88166e
-      internalID: -1318205888
+      spriteID: 52e35afc11207206bbe9692c0741cd07
+      internalID: 152976767
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_44
+      name: GhostNormalTexture_44
       rect:
         serializedVersion: 2
         x: 64
@@ -1035,14 +1035,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99fa0b53cf1c6ba198e324fb737fe855
-      internalID: 1910890315
+      spriteID: 8585e669e07f10ec3bfc018b5533ff82
+      internalID: 525868604
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_45
+      name: GhostNormalTexture_45
       rect:
         serializedVersion: 2
         x: 80
@@ -1056,14 +1056,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87652f5eb12d7e948991df7ef1d78e5c
-      internalID: -2049914452
+      spriteID: a8207bcc5952fcd088e1c933576e822e
+      internalID: -1501119566
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_46
+      name: GhostNormalTexture_46
       rect:
         serializedVersion: 2
         x: 96
@@ -1077,14 +1077,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c42bed2b609ded5ccb920eaca35b66c4
-      internalID: 263116780
+      spriteID: 8eb0ff69f277862e4bf51d135fc0f649
+      internalID: 1542624566
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_47
+      name: GhostNormalTexture_47
       rect:
         serializedVersion: 2
         x: 112
@@ -1098,14 +1098,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8222d6b0aacd848369dbc23fca90a9a8
-      internalID: 1449712912
+      spriteID: bd5f1aaffa431db5e9ee440e78e50ac0
+      internalID: 117975953
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_48
+      name: GhostNormalTexture_48
       rect:
         serializedVersion: 2
         x: 0
@@ -1119,14 +1119,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b60488e38a37569295e100071b5c8a5
-      internalID: -550909393
+      spriteID: 5ed7a59fd2a5cfb2293790ce2fc5352e
+      internalID: 647131204
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_49
+      name: GhostNormalTexture_49
       rect:
         serializedVersion: 2
         x: 16
@@ -1140,14 +1140,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5f45f292acf95dbea1b972b510151a8
-      internalID: -1661321304
+      spriteID: 800acc8ce06a8210a90da16a7acb6ded
+      internalID: 1884322691
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_50
+      name: GhostNormalTexture_50
       rect:
         serializedVersion: 2
         x: 32
@@ -1161,14 +1161,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da922a2b7bf6c60c59247efb488705d9
-      internalID: 1650111443
+      spriteID: 59b87b37b3b4be73c95d3074f5a6b5c2
+      internalID: -494795783
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_51
+      name: GhostNormalTexture_51
       rect:
         serializedVersion: 2
         x: 48
@@ -1182,14 +1182,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c5cc1e31640ead9bac0ad81c23c0560
-      internalID: 1827911528
+      spriteID: 267af73e5aa90ae88911657dff098a02
+      internalID: -422540240
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_52
+      name: GhostNormalTexture_52
       rect:
         serializedVersion: 2
         x: 64
@@ -1203,14 +1203,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f42abedb4ebad33f815fabf574a66b7
-      internalID: 878534344
+      spriteID: f3762fe36f7ad04beb8b2b3df95e9f7b
+      internalID: -519030868
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_53
+      name: GhostNormalTexture_53
       rect:
         serializedVersion: 2
         x: 80
@@ -1224,14 +1224,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44a94f4777a5a32969248931c99039d5
-      internalID: 1370844001
+      spriteID: 0c7af9a12718473caa0a34580087eedf
+      internalID: -367611616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_54
+      name: GhostNormalTexture_54
       rect:
         serializedVersion: 2
         x: 96
@@ -1245,14 +1245,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0de956d89e48ccdc4b3e19c13d6db89d
-      internalID: 367569038
+      spriteID: ad168aa1cec00bd7081ba65e55bfacb6
+      internalID: -277118853
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_55
+      name: GhostNormalTexture_55
       rect:
         serializedVersion: 2
         x: 112
@@ -1266,14 +1266,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2049b87e186bf1d699b0e24792ca55c
-      internalID: 2075098027
+      spriteID: 741e532318c5f1fc392194f7cbe55634
+      internalID: -278635151
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_56
+      name: GhostNormalTexture_56
       rect:
         serializedVersion: 2
         x: 0
@@ -1287,14 +1287,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03240577c5f61ed7fb34c8a330071d92
-      internalID: -812668124
+      spriteID: e40b7ced344090bebb845ecd56d7c15b
+      internalID: 1909278439
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_57
+      name: GhostNormalTexture_57
       rect:
         serializedVersion: 2
         x: 16
@@ -1308,14 +1308,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc6f56cd499f88aa186c142f2e1e2b05
-      internalID: 1304232164
+      spriteID: 84eeab650c3d235fd8ff663015d57c55
+      internalID: 1697803472
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_58
+      name: GhostNormalTexture_58
       rect:
         serializedVersion: 2
         x: 32
@@ -1329,14 +1329,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1969293ae2f9b3e46af20b2b3a57ac57
-      internalID: -1554316130
+      spriteID: f013e84dd845147bfbb4be38603a9ace
+      internalID: 794327219
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_59
+      name: GhostNormalTexture_59
       rect:
         serializedVersion: 2
         x: 48
@@ -1350,14 +1350,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5934bd24f066b80d7aca773e74ab635c
-      internalID: -1960493206
+      spriteID: 5d1fa0945412254f3883f3d21bf1f2c8
+      internalID: 1057693162
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_60
+      name: GhostNormalTexture_60
       rect:
         serializedVersion: 2
         x: 64
@@ -1371,14 +1371,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f9e896d53202956db9eb7188c59c388f
-      internalID: -307345741
+      spriteID: 8b3d5b292a09887f0b557a322a41187d
+      internalID: -714561096
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_61
+      name: GhostNormalTexture_61
       rect:
         serializedVersion: 2
         x: 80
@@ -1392,14 +1392,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5adbf89ef80c8c6fbab5e13cdb3a1352
-      internalID: -1303568348
+      spriteID: 9f5359be9a5ab2859837a31480b51ce9
+      internalID: -1432240103
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_62
+      name: GhostNormalTexture_62
       rect:
         serializedVersion: 2
         x: 96
@@ -1413,14 +1413,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2057c1b4223bb10bb2f94034439dc89
-      internalID: 393134816
+      spriteID: 4df89bcd70f7ab9d289fe8b40e2f30fd
+      internalID: 1451040961
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GhostScaredTexture_63
+      name: GhostNormalTexture_63
       rect:
         serializedVersion: 2
         x: 112
@@ -1434,8 +1434,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7ec0031824f2fbc78b1154bab9e2f04
-      internalID: 527435911
+      spriteID: bf104dfc14d1c95c99ea2e9f7b7d6b93
+      internalID: 81904836
       vertices: []
       indices: 
       edges: []
@@ -1443,7 +1443,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 8c84b0b3c3a7e4f728dac443cd4548a0
+    spriteID: 8fdf4fd20286f2e36a6f8cc0af0b19f4
     internalID: 0
     vertices: []
     indices: 
@@ -1451,70 +1451,70 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      GhostScaredTexture_0: 1552259488
-      GhostScaredTexture_1: -1339283256
-      GhostScaredTexture_10: 297823421
-      GhostScaredTexture_11: -401142483
-      GhostScaredTexture_12: -1725671168
-      GhostScaredTexture_13: -1050562719
-      GhostScaredTexture_14: -2013187356
-      GhostScaredTexture_15: -336618049
-      GhostScaredTexture_16: -459726133
-      GhostScaredTexture_17: 1700013356
-      GhostScaredTexture_18: 630188535
-      GhostScaredTexture_19: 528694378
-      GhostScaredTexture_2: 1265196747
-      GhostScaredTexture_20: -56600186
-      GhostScaredTexture_21: -1694714796
-      GhostScaredTexture_22: -1477346682
-      GhostScaredTexture_23: -95559102
-      GhostScaredTexture_24: -278749153
-      GhostScaredTexture_25: 613963895
-      GhostScaredTexture_26: 1224039055
-      GhostScaredTexture_27: -1367510331
-      GhostScaredTexture_28: 1210567351
-      GhostScaredTexture_29: 1693146471
-      GhostScaredTexture_3: 1504423006
-      GhostScaredTexture_30: 1959272473
-      GhostScaredTexture_31: -1760506147
-      GhostScaredTexture_32: -333623334
-      GhostScaredTexture_33: 141636321
-      GhostScaredTexture_34: 1478527539
-      GhostScaredTexture_35: -2037641675
-      GhostScaredTexture_36: -455608683
-      GhostScaredTexture_37: 676043829
-      GhostScaredTexture_38: -1950806834
-      GhostScaredTexture_39: 1761474442
-      GhostScaredTexture_4: 758394437
-      GhostScaredTexture_40: -1407827520
-      GhostScaredTexture_41: -1905662915
-      GhostScaredTexture_42: 1677978619
-      GhostScaredTexture_43: -1318205888
-      GhostScaredTexture_44: 1910890315
-      GhostScaredTexture_45: -2049914452
-      GhostScaredTexture_46: 263116780
-      GhostScaredTexture_47: 1449712912
-      GhostScaredTexture_48: -550909393
-      GhostScaredTexture_49: -1661321304
-      GhostScaredTexture_5: -1695394356
-      GhostScaredTexture_50: 1650111443
-      GhostScaredTexture_51: 1827911528
-      GhostScaredTexture_52: 878534344
-      GhostScaredTexture_53: 1370844001
-      GhostScaredTexture_54: 367569038
-      GhostScaredTexture_55: 2075098027
-      GhostScaredTexture_56: -812668124
-      GhostScaredTexture_57: 1304232164
-      GhostScaredTexture_58: -1554316130
-      GhostScaredTexture_59: -1960493206
-      GhostScaredTexture_6: 1557641431
-      GhostScaredTexture_60: -307345741
-      GhostScaredTexture_61: -1303568348
-      GhostScaredTexture_62: 393134816
-      GhostScaredTexture_63: 527435911
-      GhostScaredTexture_7: -1696612163
-      GhostScaredTexture_8: 1487962487
-      GhostScaredTexture_9: -14814670
+      GhostNormalTexture_0: -20164912
+      GhostNormalTexture_1: -1929786002
+      GhostNormalTexture_10: 598153693
+      GhostNormalTexture_11: -1598164884
+      GhostNormalTexture_12: -8702127
+      GhostNormalTexture_13: -1301881853
+      GhostNormalTexture_14: -1094237998
+      GhostNormalTexture_15: 1286058506
+      GhostNormalTexture_16: -935411983
+      GhostNormalTexture_17: -1054638712
+      GhostNormalTexture_18: -1424849065
+      GhostNormalTexture_19: 114645136
+      GhostNormalTexture_2: -1672662303
+      GhostNormalTexture_20: 770988449
+      GhostNormalTexture_21: -1396028120
+      GhostNormalTexture_22: 1691940228
+      GhostNormalTexture_23: 1291610518
+      GhostNormalTexture_24: -2082116220
+      GhostNormalTexture_25: -2061300111
+      GhostNormalTexture_26: -1626282446
+      GhostNormalTexture_27: -425023317
+      GhostNormalTexture_28: -677186413
+      GhostNormalTexture_29: 2107359624
+      GhostNormalTexture_3: -988940368
+      GhostNormalTexture_30: -1696408987
+      GhostNormalTexture_31: 1237559001
+      GhostNormalTexture_32: 990774590
+      GhostNormalTexture_33: -969574758
+      GhostNormalTexture_34: -136596477
+      GhostNormalTexture_35: -1646104312
+      GhostNormalTexture_36: -226905772
+      GhostNormalTexture_37: -1318738907
+      GhostNormalTexture_38: -1530320187
+      GhostNormalTexture_39: -38635491
+      GhostNormalTexture_4: 632028133
+      GhostNormalTexture_40: -1291356101
+      GhostNormalTexture_41: -1364535282
+      GhostNormalTexture_42: 914610868
+      GhostNormalTexture_43: 152976767
+      GhostNormalTexture_44: 525868604
+      GhostNormalTexture_45: -1501119566
+      GhostNormalTexture_46: 1542624566
+      GhostNormalTexture_47: 117975953
+      GhostNormalTexture_48: 647131204
+      GhostNormalTexture_49: 1884322691
+      GhostNormalTexture_5: -279111342
+      GhostNormalTexture_50: -494795783
+      GhostNormalTexture_51: -422540240
+      GhostNormalTexture_52: -519030868
+      GhostNormalTexture_53: -367611616
+      GhostNormalTexture_54: -277118853
+      GhostNormalTexture_55: -278635151
+      GhostNormalTexture_56: 1909278439
+      GhostNormalTexture_57: 1697803472
+      GhostNormalTexture_58: 794327219
+      GhostNormalTexture_59: 1057693162
+      GhostNormalTexture_6: -879060796
+      GhostNormalTexture_60: -714561096
+      GhostNormalTexture_61: -1432240103
+      GhostNormalTexture_62: 1451040961
+      GhostNormalTexture_63: 81904836
+      GhostNormalTexture_7: -845158358
+      GhostNormalTexture_8: -2065878246
+      GhostNormalTexture_9: -1856659273
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
