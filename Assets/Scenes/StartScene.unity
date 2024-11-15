@@ -451,6 +451,7 @@ GameObject:
   - component: {fileID: 343372807}
   - component: {fileID: 343372809}
   - component: {fileID: 343372808}
+  - component: {fileID: 343372810}
   m_Layer: 5
   m_Name: GhostMagenta
   m_TagString: Untagged
@@ -515,6 +516,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 343372806}
   m_CullTransparentMesh: 1
+--- !u!95 &343372810
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 343372806}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d80f481152997bc4d82ac069561afcf4, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &687751013
 GameObject:
   m_ObjectHideFlags: 0
@@ -776,6 +799,7 @@ GameObject:
   - component: {fileID: 761418957}
   - component: {fileID: 761418959}
   - component: {fileID: 761418958}
+  - component: {fileID: 761418960}
   m_Layer: 5
   m_Name: GhostBlue
   m_TagString: Untagged
@@ -840,6 +864,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 761418956}
   m_CullTransparentMesh: 1
+--- !u!95 &761418960
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 761418956}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d80f481152997bc4d82ac069561afcf4, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1147123467
 GameObject:
   m_ObjectHideFlags: 0
@@ -994,6 +1040,7 @@ GameObject:
   - component: {fileID: 1250493661}
   - component: {fileID: 1250493663}
   - component: {fileID: 1250493662}
+  - component: {fileID: 1250493664}
   m_Layer: 5
   m_Name: GhostGreen
   m_TagString: Untagged
@@ -1058,6 +1105,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1250493660}
   m_CullTransparentMesh: 1
+--- !u!95 &1250493664
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1250493660}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d80f481152997bc4d82ac069561afcf4, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1358184038
 GameObject:
   m_ObjectHideFlags: 0
@@ -1437,6 +1506,7 @@ GameObject:
   - component: {fileID: 2136866409}
   - component: {fileID: 2136866411}
   - component: {fileID: 2136866410}
+  - component: {fileID: 2136866412}
   m_Layer: 5
   m_Name: GhostRed
   m_TagString: Untagged
@@ -1501,6 +1571,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2136866408}
   m_CullTransparentMesh: 1
+--- !u!95 &2136866412
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2136866408}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d80f481152997bc4d82ac069561afcf4, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
